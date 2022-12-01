@@ -1,0 +1,86 @@
+{
+  "name": "ichibanswap List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "Sovryn Token",
+      "address": "0xefc78fc7d48b64958315949279ba181c2114abbd",
+      "symbol": "SOV",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://developers.rsk.co/assets/img/solutions/sovryn/sovryn-logo.png"
+    },
+    {
+      "name": "Wrapped RBTC",
+      "address": "0x967f8799af07df1534d48a95a5c9febe92c53ae0",
+      "symbol": "WRBTC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/wbtc.png"
+    },
+    {
+      "name": "Dollar on Chain",
+      "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
+      "symbol": "DOC",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/rib.png"
+    },
+    {
+      "name": "USDC Coin",
+      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/usdc.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/dai.png"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/busd.png"
+    },
+    {
+      "name": "Ethereum",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/eth.png"
+    },
+    {
+      "name": "Binance Coin",
+      "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/bnb.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 30,
+      "logoURI": "https://app.solarbeam.io/images/tokens/usdt.png"
+    }
+  ]
+}
